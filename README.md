@@ -1,10 +1,4 @@
-# State Management in React.Js Using Redux
-
-Learn how to manage states the traditional and redux way.
-
-## Publication Link
-
-[Read the full article](https://utinfrancis.hashnode.dev/enhancing-ux-through-image-loading-in-reactjs)
+# How to Build a QR Code Generator Using React.Js
 
 ## Setup
 
@@ -23,4 +17,5 @@ Afterwards, you can start your development server using:
 or
 
 ### npm run start
+
 # qr-code-generator
